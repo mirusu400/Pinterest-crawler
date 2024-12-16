@@ -131,3 +131,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Driver
+*.zip
+chrome-mac-arm64
+.DS_Store

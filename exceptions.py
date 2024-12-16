@@ -4,3 +4,4 @@ class EndPageException(Exception):
 
     def __str__(self):
         return "End of page"
+    

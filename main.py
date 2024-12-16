@@ -90,10 +90,6 @@ if __name__ == "__main__":
         pages = int(pages)
 
 
-   
-
-    
-
     print("Open selenium...")
     p = Pinterest(email, password)
 
